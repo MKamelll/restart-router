@@ -9,5 +9,5 @@ Run `npm install -g` in the folder.
 
 You can now restart using `restr`, it's going to ask for
 credentials first time only and saves your info in a `.json`
-file. In case you want to reset run it `restr --reset` and it
-will delete the file and asks for new credentials.
+file. In case you want to reset, run `restr --reset` and it
+will delete the file and ask for new credentials.
