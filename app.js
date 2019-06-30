@@ -117,7 +117,7 @@ function getInfo() {
     };
   }
 
-  // Checks if user passed the creds as args
+  // Get creds
   let ipRouter = redl.question('Enter Your Router IpAddress: ');
   // In case the ip is entered from ipconfig '192.xxx.x.x'
   if (!ipRouter.includes('http')) {
